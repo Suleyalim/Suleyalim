@@ -5,12 +5,12 @@
 
 - 📫 How to reach me **suleyalim35@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17aL47x4xd4luHzMxWhjjpunYlxv_Axuz/view?usp=sharing](https://drive.google.com/file/d/17aL47x4xd4luHzMxWhjjpunYlxv_Axuz/view?usp=sharing)
-
 - ⚡ Fun fact **i make jokes when i'm uncomfortable**
+
   
-  
- ![image](https://github.com/Suleyalim/Suleyalim/assets/66830557/795d11e0-37d6-49a1-a934-99036275133d)
+  ![image](https://github.com/Suleyalim/Suleyalim/assets/66830557/b79f881a-b91e-45f4-8736-e4537ef3ce24)
+
+
 
 
  
