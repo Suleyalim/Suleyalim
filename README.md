@@ -1,16 +1,9 @@
-<h1 align="center">Hi 👋, I'm Şule</h1>
-<h3 align="center">Student at Dokuz Eylül University</h3>
+<h1 align="center">👋 Hi there, I'm Şule Yalım!</h1>
+<h3 align="center">Software Developer at Morfoz Technology</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@suleyalim](https://medium.com/@suleyalim)
+- 📝 I share insights on AI, Machine Learning, and Software Development on [https://medium.com/@suleyalim](https://medium.com/@suleyalim)
 
 - 📫 How to reach me **suleyalim35@gmail.com**
-
-- ⚡ Fun fact **i make jokes when i'm uncomfortable**
-
-  
-  ![image](https://github.com/Suleyalim/Suleyalim/assets/66830557/b79f881a-b91e-45f4-8736-e4537ef3ce24)
-
-
 
 
  
